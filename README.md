@@ -35,7 +35,7 @@ A simple React counter application that demonstrates the use of React hooks, eve
 2. Navigate to the project directory:
 
    ```bash
-   cd assignment_3
+   cd assignment_2
    ```
 
 3. Install dependencies:
