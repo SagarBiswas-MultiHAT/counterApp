@@ -29,7 +29,7 @@ A simple React counter application that demonstrates the use of React hooks, eve
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SagarBiswas-MultiHAT/counterApp.git
    ```
 
 2. Navigate to the project directory:
